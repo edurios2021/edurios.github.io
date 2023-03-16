@@ -1,4 +1,4 @@
-# Es mi prime página de github
+# Es mi primer página de github
 Soy Eduardo y estoy empezando a crear mi primer pagina personal en github web
 
 
